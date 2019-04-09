@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "883245456030",
+    "firebase_url": "https://appnotifikasi-ed999.firebaseio.com",
+    "project_id": "appnotifikasi-ed999",
+    "storage_bucket": "appnotifikasi-ed999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883245456030:android:2e8a398a89deba5a",
+        "android_client_info": {
+          "package_name": "com.zakiatun.appnotifikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883245456030-4401e8e1ib3v00s3fqv8b3f5brbi3otn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zakiatun.appnotifikasi",
+            "certificate_hash": "4f46d60524b427c3a08f689c757e0543f5f25424"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhPlkDDSx_fQzEeNgLlPhyGAMhAqjCmfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883245456030-65ji32r0hhdnu2bdrcvu7oeq1d2em3eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
